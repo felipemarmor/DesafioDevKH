@@ -1,0 +1,43 @@
+*{
+font-family: 'Montserrat', sans-serif;
+
+}
+
+
+body{
+	background-color:#eb1c24;
+}
+
+.logoHeader{
+	width: 25%;
+	margin:0 auto;
+	display: block;
+
+
+
+}
+.img-thumbnail{
+	width: 25%;
+	display: block;
+	margin: 0 auto;
+
+}
+
+.itens{
+	display: block;
+	margin:0 auto;
+	max-width: 70%;
+	justify-content: space-around;
+
+}
+
+
+.mainContent{
+	display: flex;
+	text-align: center;
+
+}
+
+.mainContent img {
+border: 5px solid black;
+}
